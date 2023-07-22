@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687463481 source:c:\users\user\documents\scoring\main.cpp
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<windows.h>
+
