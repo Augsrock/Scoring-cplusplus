@@ -107,4 +107,5 @@ int main()
         MessageBox(NULL, "Transcript Has Been Generated!", "CGPA Transript", MB_OK | MB_ICONINFORMATION);
         myfile.close();
     return 0;
+    
 }
